@@ -1,0 +1,28 @@
+{
+  "name": "ascii-codes",
+  "version": "1.0.0",
+  "description": "ASCII table reference and lookup functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrejewski/ascii-codes.git"
+  },
+  "keywords": [
+    "ascii",
+    "lookup",
+    "table",
+    "codes"
+  ],
+  "author": "Chris Andrejewski <christopher.andrejewski@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejewski/ascii-codes/issues"
+  },
+  "homepage": "https://github.com/andrejewski/ascii-codes",
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
+}
